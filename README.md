@@ -1,4 +1,5 @@
 # 15 Bit Gradient
+Made in Python
 Generates a gradient in the 15bit colour format for the colours between two given hexadecimal colours.
 The gradient can be saved as a .nbfp Nitro Palette File.
 Useful for working with GB and NDS Palettes.
